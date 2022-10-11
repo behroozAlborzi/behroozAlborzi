@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @behroozAlborzi
+- 👋 Hi, I’m BehroozAlborzi
 - 👀 I’m interested in Mobile Developer
 - 🌱 I’m currently learning TDD and Android Architecture
 - 💞️ I’m looking to collaborate on Open Sources
